@@ -1,0 +1,45 @@
+footer {
+    background-color: #17726d;
+    color:
+        rgb(249, 252, 252);
+    text-align: center;
+    padding: 0, 10px 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.yasmim {
+    background-color: #460d63;
+    color: rgb(250, 250, 250);
+    text-align: center;
+    padding: 0, 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.preço {
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 0, 10px 0;
+
+}
+
+.centralizar{
+    text-align: center;
+}
+.formasdepagamento{
+    text-align: center;
+}
+.voltar{
+    text-align: right;
+}
+.custom-button{
+    background-color: #17726d;
+    color:#ffffff;
+    border: nome;
+    text-align: right;
+    border-radius: 12px;
+    text-decoration: none;
+    
+}
